@@ -21,13 +21,12 @@ Here are some ideas to get you started:
 
 **Here's a quick summary about me**:
 
-- 🔭 I’m currently working on: LockBox (a passcode based safe box)
+- 🔭 I’m currently working on: LockBox (a passcode based safe box using esp32) and MemoryBlink (a Simon Says game clone)
 - 🌱 I’m currently learning: Embedded C, ESP-IDF
 - 👯 I’m looking to collaborate on: DIY hardware projects involving hybrid transport systems
-- 🤔 I’m looking for help with: nothing currently
+- 🤔 I’m looking for help with: 3d printing and pcb fabrication
 - 💬 Ask me about: math, engineering, tech trends
 - 📫 How to reach me: Send me a mail at "ekunweibukun159357@gmail.com"
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe mental sports >> physical sports
 
 ---
